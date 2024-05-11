@@ -1,0 +1,15 @@
+<resources>
+    <!-- Define your custom colors -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue_green">#007F7F</color> <!-- Define the shade of blue-green -->
+
+    <!-- Define your custom theme -->
+    <style name="Theme.LibraryManagement" parent="Theme.MaterialComponents.Light">
+        <!-- Customize theme attributes -->
+        <item name="colorPrimary">@color/blue_green</item> <!-- Use the blue-green color as primary -->
+        <item name="colorPrimaryDark">@color/black</item>
+        <item name="colorAccent">@color/white</item>
+        <!-- Add more customizations as needed -->
+    </style>
+</resources>

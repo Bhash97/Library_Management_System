@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Library_Management_System</string>
+	<string name="enter_author_name">Enter_Author_Name</string>
+	<string name="add_author">Add_Author</string>
+</resources>
